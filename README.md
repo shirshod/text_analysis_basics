@@ -1,4 +1,4 @@
-# Text Analysis: An Introduction
+# [Text Analysis: An Introduction](https://github.com/shirshod/text_analysis_basics/blob/main/intro_textanalysis.ipynb)
 
 The topics and code covered in this notebook are mainly sourced from Jonathan Soma's website, InvestigateAI (with little tweaks here and there) and from my own research.  
 
